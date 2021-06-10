@@ -19,18 +19,20 @@ The objective of this project is to develop an online store where customers can 
 
 The website should include the following pages
 
-•	Landing page
+- Landing page
 - Product Catalog
 - Login/Registration
 - Contact us
 - Admin panel
 
 **Need to have**
+
 •	Users can receive an email including all the order information
 •	Google maps Api to show the business location
 
 
 **Admin**
+
 •	Can create, update, edit and delete products
 •	Can create discounts or special offers
 •	Can select which products will be displayed on the website
@@ -41,6 +43,7 @@ The website should include the following pages
 •	Can group products by categories
 
 **Users**
+
 •	Can create an account where they will save the personal data in order to make the buying process easier
 •	Can update or edit all the profile information and also delete the account completely
 •	Can add or delete products from the shopping cart
@@ -50,13 +53,16 @@ The website should include the following pages
 •	Can leave items into the shopping cart and come back later to proceed to checkout
 
 **Nice to have**
+
 •	Paypal Api for payment process 
 •	Upload profile pictures for users
 •	Live chat for customer support
 •	Ability to set bans with an expiration time
 
 **Sources**
+
 The biggest eCommerce website is amazon.com. Try to study their website and get the understanding of the basic functionalities.
 
 **Benefits**
+
 More and more companies are implementing websites providing functionalities for performing commercial transactions over the web.

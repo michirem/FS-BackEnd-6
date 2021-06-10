@@ -8,8 +8,6 @@ admin@admin.com
 12345678
 
 Project 3 - E-commerce site
-Ecommerce website
-
 
 **Problem**
 
